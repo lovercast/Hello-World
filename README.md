@@ -28,8 +28,6 @@ echo "This is my repo now haha" > README
 cat README
 ```
 
-![cat readme](pics/cat_readme.png)
-
 Now what's the status of our tree?
 
 ![git status](pics/git_status_modified.png)
