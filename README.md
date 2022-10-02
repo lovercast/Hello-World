@@ -39,6 +39,7 @@ I think this is a good change. Let's make it a part of the tree.
 
 ```sh
 git add README
+git diff --staged
 ```
 
 ![diff staged](pics/git_diff_staged.png) 
